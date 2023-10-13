@@ -1,0 +1,71 @@
+1) Skeleton
+    Health: 50
+    Damage: 4
+    Attack Speed: 2s
+    Velocity: 1 tile/s
+
+2) Zombie
+    Health: 60
+    Damage: 5
+    Attack Speed: 2s
+    Velocity: 1 tile/s
+
+3) Goblin
+    Health: 40
+    Damage: 2
+    Attack Speed: 0.75s
+    Velocity: 2.5 tiles/s
+
+4) Ogre
+    Health: 70
+    Damage: 4.5
+    Attack Speed: 1.5s
+    Velocity: 1.5 tiles/s
+
+5) Witch
+    Health: 120
+    Damage: 9
+    Attack Speed: 1.5s
+    Velocity: 1.5 tiles/s
+
+6) Vampire
+    Health: 140
+    Damage: 12
+    Attack Speed: 1.25s
+    Velocity: 1.75 tiles/s
+
+7) Werewolf
+    Health: 150
+    Damage: 15
+    Attack Speed: 1.5s
+    Velocity: 2 tiles/s
+
+8) Golem
+    Health: 300
+    Damage: 2
+    Attack Speed: 2.5s
+    Velocity: 0.25 tiles/s
+
+9) Wizard
+    Health: 150
+    Damage: 17
+    Attack Speed: 1.25s
+    Velocity: 1.5 tiles/s
+
+10) Pharaoh
+    Health: 200
+    Damage: 20
+    Attack Speed: 1.75s
+    Velocity: 1.5 tiles/s
+
+11) Dragon
+    Health: 200
+    Damage: 20
+    Attack Speed: 2.25s
+    Velocity: 3 tiles/s
+
+12) Phoenix
+    Health: 300
+    Damage: 25
+    Attack Speed: 1.25s
+    Velocity: 1.5 tiles/s
